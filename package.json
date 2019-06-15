@@ -78,6 +78,7 @@
     "fs-extra": "3.0.1",
     "ghost-ignition": "3.1.0",
     "ghost-storage-base": "0.0.3",
+    "ghost-storage-cloudinary": "^1.1.4",
     "glob": "5.0.15",
     "got": "8.3.2",
     "gscan": "2.6.0",
